@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "imageSrc": "https://m.media-amazon.com/images/I/51QHOOnL0tL._AC_UL320_.jpg",
+    "productName": "Allen Solly Men's Shirt",
+    "price": 10
+  },
+  {
+    "id": "2",
+    "imageSrc": "https://m.media-amazon.com/images/I/71V5gEc8YVL._AC_UL320_.jpg",
+    "productName": "Lymio Casual Shirt for Men|| Shirt for Men|| Men Stylish Shirt (Rib-Shirt)",
+    "price": 20
+  },
+  {
+    "id": "3",
+    "imageSrc": "https://m.media-amazon.com/images/I/71xZY5-a1oL._SY879_.jpg",
+    "productName": "IndoPrimo Men's Regular Fit Checks Cotton Casual Shirt for Men Full Sleeves - Suzuki",
+    "price": 30
+  },
+  {
+    "id": "4",
+    "imageSrc": "https://m.media-amazon.com/images/I/61ClY3peCkL._SY741_.jpg",
+    "productName": "Laxeric Casual Shirt for Men|| Shirt for Men|| Men Stylish Shirt || Men Printed Shirt",
+    "price": 15
+  },
+  {
+    "id": "5",
+    "imageSrc": "https://m.media-amazon.com/images/I/914yjFc6ZLL._SY879_.jpg",
+    "productName": "Fashion Basket Women's Floral Organza Semi Stitched Lehenga Choli",
+    "price": 25
+  },
+  {
+    "id": "6",
+    "imageSrc": "https://m.media-amazon.com/images/I/71M7aP1mgJL._SX679_.jpg",
+    "productName": "Welk Embroidered Semi Stitched Lehenga Choli Set (MAROON1)",
+    "price": 35
+  },
+  {
+    "id": "7",
+    "imageSrc": "https://m.media-amazon.com/images/I/61XlyC9uVRL._SY879_.jpg",
+    "productName": "Fashion Basket Women's Gerogette Semi Stitched White Lehenga Choli",
+    "price": 12
+  },
+  {
+    "id": "8",
+    "imageSrc": "https://m.media-amazon.com/images/I/51nY8zwBzFL._SX679_.jpg",
+    "productName": "SHAFNUFAB Women's Georgette Semi Stitched Lehenga Choli In Dark Blue Colour Chaniyacholisf218ver-7",
+    "price": 22
+  },
+  {
+    "id": "9",
+    "imageSrc": "https://m.media-amazon.com/images/I/61GFKgcfYVL._SY879_.jpg",
+    "productName": "Zeel Clothing Women's Zari Sequins Embroidered Georgette Lehenga Choli With Dupatta (5086-Yellow-Wedding-Stylish-Latest; Free Size)",
+    "price": 32
+  },
+  {
+    "id": "10",
+    "imageSrc": "https://m.media-amazon.com/images/I/61l9GZoEl0L._SY695_.jpg",
+    "productName": "YouBella Jewellery Set for women Floret Gota Patti Necklace, Earrings, Bracelet & Maang Tika For Women & Girls (Mehandi/Haldi)",
+    "price": 18
+  },
+  {
+    "id": "11",
+    "imageSrc": "https://m.media-amazon.com/images/I/616OgZa32qL._AC_UL320_.jpg",
+    "productName": "Product 11",
+    "price": 28
+  },
+  {
+    "id": "12",
+    "imageSrc": "https://m.media-amazon.com/images/I/616OgZa32qL._AC_UL320_.jpg",
+    "productName": "Product 12",
+    "price": 38
+  },
+  {
+    "id": "13",
+    "imageSrc": "https://m.media-amazon.com/images/I/616OgZa32qL._AC_UL320_.jpg",
+    "productName": "Product 13",
+    "price": 14
+  },
+  {
+    "id": "14",
+    "imageSrc": "https://m.media-amazon.com/images/I/616OgZa32qL._AC_UL320_.jpg",
+    "productName": "Product 14",
+    "price": 24
+  },
+  {
+    "id": "15",
+    "imageSrc": "https://m.media-amazon.com/images/I/616OgZa32qL._AC_UL320_.jpg",
+    "productName": "Product 15",
+    "price": 34
+  },
+  {
+    "id": "16",
+    "imageSrc": "https://m.media-amazon.com/images/I/616OgZa32qL._AC_UL320_.jpg",
+    "productName": "Product 16",
+    "price": 16
+  },
+  {
+    "id": "17",
+    "imageSrc": "https://m.media-amazon.com/images/I/616OgZa32qL._AC_UL320_.jpg",
+    "productName": "Product 17",
+    "price": 26
+  },
+  {
+    "id": "18",
+    "imageSrc": "https://m.media-amazon.com/images/I/616OgZa32qL._AC_UL320_.jpg",
+    "productName": "Product 18",
+    "price": 36
+  },
+  {
+    "id": "19",
+    "imageSrc": "https://m.media-amazon.com/images/I/616OgZa32qL._AC_UL320_.jpg",
+    "productName": "Product 19",
+    "price": 13
+  },
+  {
+    "id": "20",
+    "imageSrc": "https://m.media-amazon.com/images/I/616OgZa32qL._AC_UL320_.jpg",
+    "productName": "Product 20",
+    "price": 23
+  }
+]
